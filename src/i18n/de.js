@@ -7,12 +7,12 @@ export const de = {
   app: {
     title: "ManV Triage Simulator",
     subtitle: "VOR-Sichtung",
-    version: "Prototyp v0.1",
+    version: "Prototyp v0.2",
     badge: "Trainingsmodus",
   },
 
   prototypeModal: {
-    title: "Prototyp – v0.1",
+    title: "Prototyp – v0.2",
     text: "Dieses Tool befindet sich in einer frühen Entwicklungsphase. Inhalte, Algorithmus-Logik und Darstellung können Fehler enthalten und sind noch nicht abschließend geprüft.",
     cta: "Fehler gerne als Issue auf GitHub melden.",
     button: "Verstanden",
@@ -24,7 +24,7 @@ export const de = {
       "Durchlaufe den Vorsichtungsalgorithmus Schritt für Schritt. Die Sichtung endet beim ersten zutreffenden Punkt – pro Patient nur 1 Entscheidung.",
     button: "Training starten",
     features: [
-      "8 realistische Patientenszenarien",
+      "18 realistische Patientenszenarien",
       "Auswertung nach abgeschlossener Sichtung",
       "Detaillierte Fehleranalyse am Ende",
     ],
